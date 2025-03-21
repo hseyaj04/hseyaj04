@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2500&pause=2000&color=00FF00&width=435&lines=%3E%3E+welcome!;%3E%3E+I'm+Jayesh)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS&style=flat-square)
+![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS++&style=flat-square)
