@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Full Stack Web Developer</h1>
 
 
-<div align="center">
+<div align="center" width="100%">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hseyaj04&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     width="54%"
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="128">
       <img
@@ -179,16 +179,24 @@ Here are some ideas to get you started:
 </table>
 
 
-<br>
 
-<p align="center">
+###
+
+<!-- <p align="center">
   <a href="https://github.com/hseyaj04?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hseyaj04&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@hseyaj04's github-readme-stats-one-bice"/>
   </a>
-  <a href="https://github.com/hseyaj04?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hseyaj04&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@hseyaj04's github-readme-streak-stats"/>
+</p> -->
+
+<p>
+  <a href="https://github.com/hseyaj04?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hseyaj04&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="@hseyaj04's github-readme-stats-one-bice"/>
   </a>
 </p>
 
 
 
+<div align="center">
+  <a href="https://github.com/hseyaj04/hseyaj04"><img alt="hseyaj04's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hseyaj04&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  
+  </div>
