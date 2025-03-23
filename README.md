@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2500&pause=2000&color=00FF00&width=435&lines=%3E%3E+welcome!;%3E%3E+I'm+Jayesh)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS++&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS++&style=flat-square) -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hseyaj04&&style=flat-square&&color=00FF00&label=PROFILE+VIEWS++&style=flat-square" align="center" />
+</div>
+
+<br/>
 
 <h1 align="center">Full Stack Web Developer</h1>
 
@@ -31,6 +37,9 @@ Here are some ideas to get you started:
     alt="languages graph" />
 </div>
   
+<br clear="both" />
+<br clear="both" />
+
 
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
@@ -38,7 +47,7 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both" />
+
 
 <table align="center">
   <tr>
@@ -168,3 +177,18 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/hseyaj04?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hseyaj04&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@hseyaj04's github-readme-stats-one-bice"/>
+  </a>
+  <a href="https://github.com/hseyaj04?tab=stars">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hseyaj04&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@hseyaj04's github-readme-streak-stats"/>
+  </a>
+</p>
+
+
+
