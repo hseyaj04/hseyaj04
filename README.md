@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2500&pause=2000&color=00FF00&width=435&lines=%3E%3E+welcome!;%3E%3E+I'm+Jayesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2500&pause=2000&color=2aa889&width=435&lines=%3E%3E+welcome!;%3E%3E+I'm+Jayesh)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS++&style=flat-square) -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hseyaj04&&style=flat-square&&color=00FF00&label=PROFILE+VIEWS++&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=hseyaj04&&style=flat-square&&color=268e76&label=PROFILE+VIEWS++&style=flat-square" align="center" />
 </div>
 
 <br/>
 
-<h1 align="center">Full Stack Web Developer</h1>
+<h1 align="center" style="color: #2aa889;">Full Stack Web Developer</h1>
 
 
 <div align="center" width="100%">
@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">Popular Software Tools & Programming Languages</h2>
+<h2 align="center" style="color: #2aa889;">Popular Software Tools & Programming Languages</h2>
 
 
 ###
 
 
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="color: #2aa889;">
   <tr>
     <td align="center" width="128">
       <img
@@ -197,6 +197,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/hseyaj04/hseyaj04"><img alt="hseyaj04's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hseyaj04&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/hseyaj04/hseyaj04"><img alt="hseyaj04's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hseyaj04&bg_color=RRGGBBAA&title_color=2aa889&color=98d0ce&line=268e76&point=ffffff&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   
   </div>
