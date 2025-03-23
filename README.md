@@ -21,6 +21,16 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=hseyaj04&&style=flat-square&&color=268e76&label=PROFILE+VIEWS++&style=flat-square" align="center" />
 </div>
 
+<div align="center"> 
+<h3 align="center">🌐 Connect with me:</h3>
+  <a href="mailto:codex.hseyaj26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-raut-7805a823a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
+https://www.linkedin.com/in/jayesh-raut-7805a823a/
 <br/>
 
 <h1 align="center" style="color: #2aa889;">Full Stack Web Developer</h1>
