@@ -17,18 +17,31 @@ Here are some ideas to get you started:
 <a width="100%" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1500&color=2AA889&random=true&width=435&lines=Welcome!+I'm+Jayesh;A+Full+Stack+Web+Developer;AIR+2026+in+GATE+2025;3rd+in+ODE+to+CODE" alt="Typing SVG" /></a>
 <!-- ![](https://komarev.com/ghpvc/?username=hseyaj04&color=00FF00&label=PROFILE+VIEWS++&style=flat-square) -->
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  
   <img src="https://komarev.com/ghpvc/?username=hseyaj04&&style=flat-square&&color=268e76&label=PROFILE+VIEWS++&style=flat-square" align="center" />
 </div>
 
-<div align="center"> 
-<h3 align="center">🌐 Connect with me:</h3>
-  <a href="mailto:codex.hseyaj26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+
+
+<div align="center" style="border: 3px solid #5aaadd; border-radius: 8px; padding: 20px;">
+  <a href="https://drive.google.com/file/d/1TECdcgw9baVsPoMJ1AidBOBJm2PX5_zp/view?usp=drive_link" target="_blank">
+    <img src="https://imgs.search.brave.com/2-DIjanXyP9XdHM1yR3z8C-XjcmUkdUzkycKN_Qi35I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9yZXN1bWUv/OS0yLXJlc3VtZS1w/aWN0dXJlLXRodW1i/LnBuZw" 
+         alt="Resume Preview" 
+         style="width: 150px; height: auto; display: block; margin: 0 auto;">
   </a>
-  <a href="https://www.linkedin.com/in/jayesh-raut-7805a823a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+  
+  <h3 style="margin: 15px 0 10px 0;">🌐 Connect with me:</h3>
+  
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="mailto:codex.hseyaj26@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/jayesh-raut-7805a823a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
 </div>
 <br/>
 
