@@ -31,3 +31,140 @@ Here are some ideas to get you started:
     alt="languages graph" />
 </div>
   
+
+
+<h2 align="center">Popular Software Tools & Programming Languages</h2>
+
+
+###
+
+<br clear="both" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="65"
+        height="65"
+        alt="NextJS" />
+      <br />NextJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="65"
+        height="65"
+        alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/webpack-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Webpack
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/aws-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />AWS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+</table>
