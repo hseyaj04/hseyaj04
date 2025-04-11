@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <div align="center" style="border: 3px solid #5aaadd; border-radius: 8px; padding: 20px;">
-  <a href="https://drive.google.com/file/d/15lPNqRuXKb_oaFt6wbssXpymITQ5fyMe/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1X4iNOhauXnQzrEsGMb5Ow7jynA_uPJcr/view?usp=drive_link" target="_blank">
     <img src="https://imgs.search.brave.com/2-DIjanXyP9XdHM1yR3z8C-XjcmUkdUzkycKN_Qi35I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5naW1nLmNvbS90/aHVtYi9yZXN1bWUv/OS0yLXJlc3VtZS1w/aWN0dXJlLXRodW1i/LnBuZw"
          alt="Resume Preview" 
          style="width: 150px; height: auto; display: block; margin: 0 auto;">
